@@ -1,3 +1,4 @@
 test1
-modify test2
-add test3
+test2
+line3
+line4
